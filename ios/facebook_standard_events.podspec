@@ -15,8 +15,8 @@ A new Flutter plugin for Facebook Standard Events
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'FBSDKCoreKit', '~> 5.0'
+  s.dependency 'FBSDKCoreKit', '~> 11.2.0'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
 end
 
